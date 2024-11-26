@@ -1,7 +1,7 @@
 # twitter-video-download
- - 下载推特上的视频的工具.
+- A tool for downloading videos from Twitter.
 
-## 使用方法
+## Usage
 ```
 pip install -r requirements.txt
 python3 main.py
